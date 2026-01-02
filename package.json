@@ -66,7 +66,7 @@
   "devDependencies": {
     "@playwright/test": "1.45.0",
     "@tailwindcss/postcss": "4.0.8",
-    "@types/node": "22",
+    "@types/node": "^22.19.3",
     "@typescript-eslint/eslint-plugin": "8.23.0",
     "@typescript-eslint/parser": "8.23.0",
     "clsx": "2.1.1",
@@ -79,7 +79,7 @@
     "eslint-plugin-svg-jsx": "1.2.4",
     "eslint-plugin-unused-imports": "4.1.4",
     "pino-pretty": "11.2.1",
-    "postcss": "8",
+    "postcss": "^8.5.6",
     "prettier": "3.3.3",
     "schema-dts": "1.1.2",
     "tailwind-merge": "3.0.2",
